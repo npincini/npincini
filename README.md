@@ -1,6 +1,9 @@
 👋 Hi, I’m Noah / @npincini <br>
+<br>
 👀 I’m interested in coding and developng my IT skills <br>
+<br>
 🌱 I’m currently learning about Information Technology (formal education) and looking into futuristic technologies <br>
+<br>
 💻 With a passion for technology and its integration into every aspect of our lives, in my future, I hope to one day work in the media or technology industry and work with a diverse team that will expand my knowledge of our digitized lives <br>
 
 See my current projects below: <br>
