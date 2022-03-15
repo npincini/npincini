@@ -1,6 +1,6 @@
 👋 Hi, I’m Noah / @npincini <br>
 <br>
-👀 I’m interested in coding and developng my IT skills <br>
+👀 I’m interested in coding and developing my IT skills <br>
 <br>
 🌱 I’m currently learning about Information Technology (formal education) and looking into futuristic technologies <br>
 <br>
